@@ -1,0 +1,54 @@
+{
+	"basics":{
+	"name":"srilakshmi",
+	"email":"srilakshmidhatla6@gmail.com",
+	"mobile":"9949838893"
+	},
+	"carrer":{
+	"info":"To build a long-term career in [specific industry] with opportunities for career growth."
+},
+"education":[
+{
+	"degree":"B.Tech(c.s.e)",
+	"institute":"Avanthi",
+	"data":["2015-2019","76%"]
+},
+{
+"degree":"InterMediate/Diploma",
+	"institute":"Narayana junior collage",
+	"data":["2013-15","88%"]
+},
+{
+"degree":"S.S.C",
+	"institute":"viswasanthi",
+	"data":["2012","88%"]
+}
+],
+"skills":[
+	{
+"title":"Programming Language",
+"info":["c","c++","java","python","perl"]
+},
+{
+"title":"DataBase",
+"info":["mySql","oracle"]
+},
+{
+"title":"Web Technologies",
+"info":["html","CSS3","javaScript"]
+},
+{
+"title":"Libraries and Frameforks",
+"info":["ionic","Angular",".net"]
+},
+{
+"title":"operating Systems",
+"info":["linux","windows","dos"]
+
+}
+]
+
+}
+
+
+
